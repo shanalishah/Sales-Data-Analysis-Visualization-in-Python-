@@ -215,7 +215,7 @@ st.markdown("---")
 # Tabs
 # ----------------------------
 overview_tab, product_tab, timing_tab, basket_tab, data_tab, resume_tab = st.tabs(
-    ["Executive Overview", "Product & Pricing", "Timing Analysis", "Market Basket", "Data Quality", "Resume Story"]
+    ["Executive Overview", "Product & Pricing", "Timing Analysis", "Market Basket", "Data Quality"]
 )
 
 with overview_tab:
